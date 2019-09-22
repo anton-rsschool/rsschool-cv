@@ -16,3 +16,10 @@ Knowledge of HTML5, CSS3, JavaScript, TypeScript, Angular, React
 
 ## 6. Experience
 Not
+
+## 7. Education
+Belarusian State Technological University  
+Specialization: Machines and Apparatus for Chemical and Silicate Production
+
+## 8. English level
+A1
