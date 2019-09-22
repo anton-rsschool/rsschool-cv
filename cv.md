@@ -7,3 +7,12 @@
 
 ## 3. Summary
 I want to get knowledge of front-end development
+
+## 4. Skills
+Knowledge of HTML5, CSS3, JavaScript, TypeScript, Angular, React
+
+## 5. Code examples
+`console.log('Hello World!!!');`
+
+## 6. Experience
+Not
